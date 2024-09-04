@@ -1,5 +1,6 @@
 **AISHWI TECHNOLOGIES** - Website Documentation
-Project Overview
+
+**Project Overview:**
 This project involves developing a full-stack home website for AISHWI TECHNOLOGIES. The website will feature a professional design with interactive elements, built using Node.js with Express.js for the backend and MySQL for the database, with HTML, CSS, and JavaScript for the frontend.
 
 **Getting Started**
