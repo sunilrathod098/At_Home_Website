@@ -79,4 +79,4 @@ git push origin feature-branch-name
 
 **Notes**
 Keep all images and other assets in the assets/ folder.
-For any questions, please reach out to **KRISHNA**(team lead)
+For any questions, please reach out to **KRISHNA**(team lead).
